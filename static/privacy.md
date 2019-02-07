@@ -44,7 +44,7 @@ permalink: /privacy
           If there are any questions regarding this privacy policy, you may contact us using the information below.<br /><br />
       </p>
       <p>
-        <a href="{{ '/home' | relative_url }}">www.upvision.in</a><br />
+        <a href="{{ '/' | relative_url }}">www.upvision.in</a><br />
       </p>
       <p>
         <a href="tel:+919558066513">+91 955-806-6513</a>

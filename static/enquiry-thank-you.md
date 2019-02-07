@@ -23,7 +23,7 @@ permalink: /thank-you
         </div>
         <br/><br />
         <p class="text-center">
-            <a class="btn btn-upvision" href="{{ '/home' | relative_url }}"><i class="fa fa-chevron-left pr-2"></i>Go back to Home</a>
+            <a class="btn btn-upvision" href="{{ '/' | relative_url }}"><i class="fa fa-chevron-left pr-2"></i>Go back to Home</a>
         </p>
     </div>
   </section>
