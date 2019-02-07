@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /home
+permalink: /
 ---
 <section>
             <div id="main-slider" class="carousel slide carousel-fade" data-ride="carousel">
