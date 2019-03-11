@@ -1,13 +1,7 @@
-_includes
-_layouts
-_posts
-_site
 .sass-cache
-assets
-static
-_config.yml
 .gitignore
-index.md
 docker-compose.yml
 Dockerfile
-Gemfile.loc
+.git
+
+
